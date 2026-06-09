@@ -7,7 +7,6 @@ Supporting organizations are listed alphabetically
 ### Transit agencies
 
 - [Denton County Transportation Authority (DCTA)](https://www.dcta.net/)  
-- [Kansas City Area Transportation Authority (KCATA)](https://www.kcata.org/)  
 - [Metro Regional Transit Authority (METRO Akron)](https://www.akronmetro.org/)  
 - [WeGo Public Transit](https://www.wegopublictransit.com/)
 
