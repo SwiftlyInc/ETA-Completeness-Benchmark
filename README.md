@@ -1,6 +1,6 @@
 # ETA-Completeness-Benchmark
 
-A common methodology for measuring the completeness of real-time ETA data for public transit, created by Swiftly.
+A common methodology for measuring the completeness of real-time ETA data for public transit.
 
 ## Why does the ETA Completeness Benchmark exist?
 
