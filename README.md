@@ -2,8 +2,6 @@
 
 A common methodology for measuring the completeness of real-time ETA data for public transit, created by Swiftly.
 
-Swiftly is the industry’s leading transit data platform, improving the rider experience for more than 2 billion passenger trips per year across 12 countries. Today, over 200 transit agencies partner with Swiftly to deliver more reliable real-time passenger information, manage day-to-day operations, and improve service performance.
-
 ## Why does the ETA Completeness Benchmark exist?
 
 Real-time information is only valuable if it actually reaches riders. Yet until now, there has been no standardized, industry-wide way to measure how often it doesn't.
