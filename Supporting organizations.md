@@ -17,7 +17,8 @@ Supporting organizations are listed alphabetically
 ### Private sector
 
 - [Blinktag](https://blinktag.com/)  
-- [Jarrett Walker \+ Associates](https://www.jarrettwalker.com/)  
+- [Jarrett Walker \+ Associates](https://www.jarrettwalker.com/)
+- [Jarvus Innovations](https://jarv.us/)
 - [Left Turn Right Turn (LTRT)](https://ltrt.ca/)  
 - [Swiftly](https://www.goswift.ly/)  
 - [Transit](https://transitapp.com/)
