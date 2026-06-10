@@ -6,8 +6,7 @@ Supporting organizations are listed alphabetically
 
 ### Transit agencies
 
-- [Denton County Transportation Authority (DCTA)](https://www.dcta.net/)  
-- [Kansas City Area Transportation Authority (KCATA)](https://www.kcata.org/)  
+- [Denton County Transportation Authority (DCTA)](https://www.dcta.net/)
 - [Metro Regional Transit Authority (METRO Akron)](https://www.akronmetro.org/)  
 - [WeGo Public Transit](https://www.wegopublictransit.com/)
 
@@ -18,7 +17,8 @@ Supporting organizations are listed alphabetically
 ### Private sector
 
 - [Blinktag](https://blinktag.com/)  
-- [Jarrett Walker \+ Associates](https://www.jarrettwalker.com/)  
+- [Jarrett Walker \+ Associates](https://www.jarrettwalker.com/)
+- [Jarvus Innovations](https://jarv.us/)
 - [Left Turn Right Turn (LTRT)](https://ltrt.ca/)  
 - [Swiftly](https://www.goswift.ly/)  
 - [Transit](https://transitapp.com/)
