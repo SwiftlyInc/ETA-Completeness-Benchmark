@@ -6,7 +6,7 @@ A common methodology for measuring the completeness of real-time ETA data for pu
 
 Real-time information is only valuable if it actually reaches riders. Yet until now, there has been no standardized, industry-wide way to measure how often it doesn't.
 
-The ETA Completeness Benchmark addresses this gap. While existing tools like the [ETA Accuracy Benchmark](https://github.com/TransitApp/ETA-Accuracy-Benchmark) measure the quality of predictions that *are* generated, they say nothing about the trips that silently disappear from real-time views entirely — the ghost buses and zombie buses that leave riders waiting with no information at all.
+The ETA Completeness Benchmark addresses this gap. While existing tools like the [ETA Accuracy Benchmark](https://github.com/TransitApp/ETA-Accuracy-Benchmark) measure the quality of predictions that *are* generated, they say nothing about the trips that silently disappear from real-time views entirely — leaving riders to rely on schedule information alone.
 
 Building on [Cal-ITP](https://www.calitp.org/)'s existing real-time reporting framework (which has measured completeness for California agencies since 2022), the ETA Completeness Benchmark establishes the first standardized, industry-wide measure of how often riders receive *any* real-time information at all. It offers a neutral, transparent way for agencies to understand where their real-time systems succeed and where information silently disappears.
 
@@ -25,7 +25,7 @@ In practice, every scheduled trip-stop combination on a given service day falls 
 |  | Ran as scheduled | Did not run as scheduled |
 | :---- | :---- | :---- |
 | **Reflected in real-time feed** | ✅ **Delivered \+ communicated** — The bus ran and riders saw it coming. This is the domain of traditional prediction accuracy. | ✅ **Undelivered \+ communicated** — The trip didn't run, but riders were correctly informed via a `CANCELED` or `SKIPPED` designation in the GTFS-rt feed. Not ideal, but keeps riders in the loop. |
-| **Not reflected in real-time feed** | ❌ **Delivered \+ uncommunicated** — The bus ran, but wasn't reflected in real-time feeds. Riders had no way to know it was coming. These are "zombie buses." | ❌ **Undelivered \+ uncommunicated** — The trip didn't run *and* no real-time information was available. Apps like Google Maps, Transit, and Apple Maps default to showing scheduled times, even for trips that may not be coming. These are "ghost buses" — the most harmful outcome for the rider experience. |
+| **Not reflected in real-time feed** | ❌ **Delivered \+ uncommunicated** — The bus ran, but wasn't reflected in real-time feeds. Riders had no way to know it was coming. | ❌ **Undelivered \+ uncommunicated** — The trip didn't run *and* no real-time information was available. Apps like Google Maps, Transit, and Apple Maps default to showing scheduled times, even for trips that may not be coming. This is among the most harmful outcomes for the rider experience. |
 
 Trip-stops where riders received reliable information — either a real-time prediction (category 1\) or a communicated disruption (category 3\) — are considered **complete**.
 
